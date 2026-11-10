@@ -1,2 +1,3 @@
-# app-dev
-My first repository
+# MY FAVORITE SERIES/MOVIES
+1. **DESCENDANT OF THE SUN**
+2. *The Amazing Spider-Man 2*
